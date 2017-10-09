@@ -1,0 +1,3 @@
+cp generic/GetSudoku.pro .
+qmake
+make

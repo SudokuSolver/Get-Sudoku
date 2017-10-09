@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE CodeBlocks_layout_file>
+<CodeBlocks_layout_file>
+	<File name="Bar.cpp" open="1" top="0">
+		<Cursor position="162" topLine="0"/>
+	</File>
+	<File name="Field.cpp" open="1" top="0">
+		<Cursor position="0" topLine="0"/>
+	</File>
+	<File name="Field.h" open="1" top="1">
+		<Cursor position="241" topLine="0"/>
+	</File>
+	<Expand folder="/Sources/source"/>
+	<Expand folder="/Sources"/>
+	<Expand folder="/Headers/source"/>
+	<Expand folder="/Headers"/>
+</CodeBlocks_layout_file>
